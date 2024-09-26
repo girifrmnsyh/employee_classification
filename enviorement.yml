@@ -1,0 +1,14 @@
+name: employee_project
+
+channels:
+- anaconda
+- conda-forge
+- defaults
+
+dependencies:
+- python=3.11.4
+- numpy=1.24.4
+- pandas=2.1.0
+- matplotlib=3.8.0
+- seaborn=0.12.2
+- scikit-learn=1.2.2
